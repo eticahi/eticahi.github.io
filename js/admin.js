@@ -5,9 +5,9 @@
  * anyone with the URL can read them. Do not use this for anything real.
  */
 
-const ADMIN_USER = "addisonmontgomery";
-const ADMIN_PASS = "afm";
-const SESSION_KEY = "wa_gov_admin_session";
+const ADMIN_USER = "eticahi";
+const ADMIN_PASS = "oir";
+const SESSION_KEY = "mn_gov_admin_session";
 // LS_PREFIX is defined in data-loader.js (loaded earlier on admin.html);
 // re-declaring it here would throw SyntaxError. Reuse the global.
 

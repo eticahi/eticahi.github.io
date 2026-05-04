@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "EO-0001",
+    "number": "0001",
+    "title": "Declaring a Statewide Public Health Emergency and Establishing COVID-19 Mitigation Measures",
+    "issued": "2020-03-01",
+    "status": "active",
+    "topics": [
+      "COVID-19"
+    ],
+    "summary": "Declares a statewide public health emergency in Minnesota due to rising COVID-19 cases and establishes measures including indoor mask mandates, regional movement restrictions, limits on large gatherings, and the mobilization of state healthcare resources to reduce transmission and support hospitals."
+  }
+]

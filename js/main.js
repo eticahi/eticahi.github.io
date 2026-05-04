@@ -21,18 +21,18 @@ function renderChrome(activeKey) {
     header.innerHTML = `
       <div class="utility-bar">
         <div class="container">
-          <span>An official website of the State of Washington (sim)</span>
-          <span><a href="admin.html">Staff sign-in</a></span>
+          <span>An official website of the State of Minnesota (sim)</span>
+          <span><a href="admin.html">Admin Log-in</a></span>
         </div>
       </div>
       <header class="site-header">
         <div class="container">
           <a href="index.html" class="seal" aria-label="State Seal — home">
-            <img src="assets/stateseal.svg" alt="Washington State seal">
+            <img src="assets/stateseal.svg" alt="Minnestoa State seal">
           </a>
           <div class="titles">
             <div class="top">Office of the Governor</div>
-            <div class="sub">State of Washington</div>
+            <div class="sub">State of Minnesota</div>
           </div>
           <nav class="site-nav" aria-label="Primary">
             ${NAV_ITEMS.map(item => `
@@ -55,12 +55,12 @@ function renderChrome(activeKey) {
             <div>
               <h4>Office of the Governor</h4>
               <p style="margin:0 0 .5rem">
-                PO Box 40002<br>
-                Olympia, WA 98504-0002
+                130 State Capitol<br>
+                St. Paul, MN 55155
               </p>
               <p style="margin:0">
-                Phone: (360) 902-4111<br>
-                Press: <a href="mailto:press@gov.wa.gov.example">press@gov.wa.gov.example</a>
+                Phone: (651) 201-3400<br>
+                Press: <a href="mailto:press@gov.mn.gov.example">press@gov.mn.gov.example</a>
               </p>
             </div>
             <div>
@@ -88,7 +88,7 @@ function renderChrome(activeKey) {
             </div>
           </div>
           <div class="meta">
-            © ${new Date().getFullYear()} Office of the Governor — State of Washington (sim).
+            © ${new Date().getFullYear()} Office of the Governor — State of Minnesota (parody).
             This is a simulation site, not an official government website.
           </div>
         </div>

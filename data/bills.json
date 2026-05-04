@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "SB-5939",
+    "chamber": "Senate",
+    "session": "2026 Special",
+    "title": "Minnesota COVID-19 Targeted Household Relief Act",
+    "sponsor": "Sen. P Thompson",
+    "introduced": "2020-03-01",
+    "lastAction": "2020-03-01",
+    "lastActionText": "Introduced in the Minnesota State Senate and referred to the Senate Committee on Finance and Policy.",
+    "status": "in-committee",
+    "governorPosition": "support",
+    "topics": [
+      "covid-19",
+      "economy"
+    ],
+    "summary": "The Minnesota COVID-19 Targeted Household Relief Act establishes an application-based emergency assistance program for residents experiencing financial hardship due to the pandemic. Eligible applicants must be Minnesota residents with household incomes under $75,000 for individuals or $150,000 for joint filers, and must demonstrate qualifying COVID-19-related impacts such as job loss, a 25% or greater reduction in income, small business losses, or significant medical or caregiving expenses.\n\nApproved applicants may receive up to $1,000 per adult and $300 per child, with final amounts based on verified need within those limits. Applicants must provide documentation of identity, residency, income, and hardship, and funding is drawn from the state Emergency Stabilization Fund along with eligible federal relief allocations."
+  }
+]

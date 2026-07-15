@@ -1,24 +1,24 @@
 {
   "governor": {
-    "name": "Olivia Isobel Rodrigo",
-    "shortName": "Governor Rodrigo",
-    "title": "Governor of the State of Minnesota",
-    "tenure": "Inaugurated January 2019",
+    "name": "Justine Ezarik",
+    "shortName": "Governor Ezarik",
+    "title": "Governor of the State of Colorado",
+    "tenure": "Inaugurated January 2033",
     "bio": [
-      "Olivia Rodrigo is the 41st Governor of the State of Minnesota. A Grammy Award-winning singer-songwriter by early career and a nationally recognized advocate for youth civic engagement, Governor Rodrigo transitioned from the entertainment industry into public service, where she leveraged her platform to champion education, mental health awareness, and generational equity before being elected to the state’s highest office.",
-      "Her administration has focused on strengthening Minnesota’s public education system, expanding access to affordable healthcare, investing in climate resilience across the state’s urban and rural communities, modernizing infrastructure, and fostering a culture of civic participation and transparency in government.",
-      "Governor Rodrigo resides in Saint Paul with her family. She continues to support arts education initiatives statewide and maintains an active role in philanthropic efforts aimed at empowering young leaders."
+      "Justine Ezarik is the 44th Governor of the State of Colorado. Before taking office, she represented Colorado in the United States Senate, where she championed legislation to expand access to affordable healthcare, lower costs for working families, protect public lands, advance clean energy, and strengthen voting rights. Her work in the Senate earned her a reputation as a pragmatic, results-driven leader committed to progressive policies and bipartisan problem-solving.",
+      "As governor, Justine will work to strengthen Colorado's public schools, expand access to affordable healthcare, increase the supply of affordable housing, accelerate the transition to clean energy, protect the state's public lands and water resources, modernize transportation infrastructure, and ensure state government is transparent, accountable, and responsive to every Coloradan.",
+      "Governor Ezarik lives in Denver with her family and is committed to working with communities across every corner of the state to build a more affordable, sustainable, and prosperous Colorado."
     ]
   },
   "hero": {
-    "headline": "A government for every Minnesotan.",
-    "lede": "From the forested shores of the North Shore to the rolling farmlands of the Red River Valley, the work of state government is to protect our communities, strengthen our economy, and uphold the commitments we share to one another.",
+    "headline": "A government for every Coloradan.",
+    "lede": "From the snow-capped peaks of the Rockies to the high plains stretching eastward, the work of state government is to protect our communities, expand opportunity, and honor the responsibilities we share as Coloradans.",
     "primaryCta":   { "label": "Read the Governor's latest statement", "href": "statements.html" },
     "secondaryCta": { "label": "Track legislation",                    "href": "legislation.html" }
   },
   "footer": {
-    "address": "Office of the Governor · 130 State Capitol · MN 55155",
-    "phone":   "(651) 201-3400",
-    "press":   "press@gov.mn.gov"
+    "address": "Office of the Governor · 200 E Colfax Ave · Denver, CO 80203",
+    "phone":   "(303) 866-2471",
+    "press":   "press@gov.co.gov"
   }
 }
